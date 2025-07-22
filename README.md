@@ -107,10 +107,9 @@ The model recommends a ranked list of anime that the user hasn’t rated yet but
 ## 👤 Author
 
 **Alaa Shorbaji**  
-Artificial Intelligence Instructor – Armed Forces  
+Artificial Intelligence Instructor 
 Machine Learning & Recommendation Systems Specialist  
-GitHub: [your_username]  
-LinkedIn: [your_link]
+
 
 ---
 
